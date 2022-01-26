@@ -1,0 +1,12 @@
+
+
+**Database Name: vpms_py**
+
+
+
+
+
+**Login Details**
+
+Username: admin
+Password: password
